@@ -1,0 +1,1 @@
+# Basic pre-defined functions for returning values based on an item's scalar properties.
