@@ -1,0 +1,1 @@
+this folder is where all the exported .txt files are stored within
